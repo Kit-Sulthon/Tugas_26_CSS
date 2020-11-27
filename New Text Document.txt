@@ -1,0 +1,2 @@
+Silahkan Download file Bootstrap pada website resminya, lalu buatlah sebuah project dengan nama Tugas 26
+Silahkan buat halaman web dengan menggunakan template css bootsrap yang telah dipelajari sebelumnya sehingga hasilnya akan seperti gambar dibawah ini 
